@@ -73,7 +73,7 @@ pyautogui.click(313,409)
 time.sleep(1)
 
 # write and copy the 1st message
-first_text = "Hello k gardai xau?"
+first_text = "Hello k gardai hunu hunxa?"
 pyperclip.copy(first_text)
 
 # click on user chatbox
@@ -91,8 +91,8 @@ pyautogui.click(1221,927)
 seen_messages = []
 
 # select previous message to {first_text}
-pyautogui.moveTo(669,224)
-pyautogui.dragTo(1837,981,duration=1.0,button="left")
+pyautogui.moveTo(745,254)
+pyautogui.dragTo(1840,981,duration=1.0,button="left")
 
 # copy the selected text to the clipboard and unselect text
 pyautogui.hotkey('ctrl','c')
@@ -115,9 +115,9 @@ for msg in messages:
 while True:
     # copy all messages by dragging in a time of 1.2sec
     time.sleep(3)
-    pyautogui.click(668,224)
-    pyautogui.moveTo(669,224)
-    pyautogui.dragTo(1837,981,duration=1.0,button="left")
+    pyautogui.click(740,250)
+    pyautogui.moveTo(750,256)
+    pyautogui.dragTo(1840,981,duration=1.0,button="left")
 
     # copy the selected text to the clipboard and unselect text
     pyautogui.hotkey('ctrl','c')
