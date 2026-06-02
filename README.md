@@ -8,7 +8,15 @@ An automated WhatsApp chatbot that reads incoming messages and replies naturally
 
 ## Demo
 
-[![Watch Demo](https://img.youtube.com/vi/rbtRfHRNDvc/0.jpg)](https://youtu.be/rbtRfHRNDvc)
+
+
+https://github.com/user-attachments/assets/101b404c-6f40-424e-bc1e-82dda6f059f9
+
+
+
+
+
+
 
 ## Features
 - **Auto-Replies:** Automatically reads new messages and generates contextual replies using Gemini 2.5 Flash.
