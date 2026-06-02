@@ -7,7 +7,7 @@ An automated WhatsApp chatbot that reads incoming messages and replies naturally
 > **Personal Project Note:** This bot relies heavily on `pyautogui` for GUI automation. It uses hardcoded screen coordinates to click and drag across WhatsApp Web/Desktop. Because of this, **it works on specific points on the screen only. This script is configured specifically for my desktop resolution and setup, and it will only work on my machine out of the box.**
 
 ## Demo
-https://github.com/user-attachments/assets/101b404c-6f40-424e-bc1e-82dda6f059f9
+https://github.com/user-attachments/assets/3f2bdd28-c310-45b5-b026-d403cab94c0a
 
 ## Features
 - **Auto-Replies:** Automatically reads new messages and generates contextual replies using Gemini 2.5 Flash.
